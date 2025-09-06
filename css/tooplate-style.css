@@ -84,7 +84,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   a:hover, a:active, a:focus {
-    color: #dd9e2a;
+    color: #a5c422;
     outline: none;
   }
 
@@ -107,7 +107,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .section-btn {
-    background: #dd9e2a;
+    background: #a5c422;
     border: 0;
     border-radius: 3px;
     color: #ffffff;
@@ -295,7 +295,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   header span i {
-    color: #dd9e2a;
+    color: #a5c422;
     margin-right: 5px;
   }
 
@@ -319,7 +319,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-brand .fa {
-    color: #dd9e2a;
+    color: #a5c422;
   }
 
   .navbar-default .navbar-nav li.appointment-btn {
@@ -327,7 +327,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-nav li.appointment-btn a {
-    background: #dd9e2a;
+    background: #a5c422;
     border-radius: 3px;
     color: #ffffff;
     font-weight: 600;
@@ -452,15 +452,18 @@ http://www.tooplate.com/view/2098-health
   }
 
   .slider .item-first {
-    background-image: url(../images/slider1.jpg);
+    background-image: url(../images/car_fal.png);
+      background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
   }
 
   .slider .item-second {
-    background-image: url(../images/slider2.jpg);
+   background-image: url(../images/car_street.png);
   }
 
   .slider .item-third {
-    background-image: url(../images/slider3.jpg);
+   background-image: url(../images/car_winter.png);
   }
 
 
@@ -469,8 +472,7 @@ http://www.tooplate.com/view/2098-health
   -----------------------------------------*/
 
   #about {
-    background: url('../images/about-bg.jpg') no-repeat top center;
-    background-size: cover;
+    background-color: #f5f5f5;
     padding-top: 150px;
     padding-bottom: 150px;
   }
@@ -570,7 +572,7 @@ http://www.tooplate.com/view/2098-health
   -----------------------------------------*/
 
   #service {
-    background: #dd9e2a;
+    background: #a5c422;
   }
 
   #service h2,
@@ -590,7 +592,7 @@ http://www.tooplate.com/view/2098-health
     font-size: 50px;
     margin-bottom: 10px;
     background: #ffffff;
-    color: #dd9e2a;
+    color: #a5c422;
     width: 120px;
     height: 120px;
     line-height: 120px;
@@ -777,7 +779,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   #appointment button#cf-submit {
-    background: #dd9e2a;
+    background: #a5c422;
     color: #ffffff;
     font-weight: 600;
     height: 55px;
@@ -815,7 +817,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .contact-info .fa {
-    background: #dd9e2a;
+    background: #393939;
     border-radius: 100%;
     color: #ffffff;
     font-size: 15px;
@@ -1034,7 +1036,7 @@ http://www.tooplate.com/view/2098-health
     .angle-up-btn {
       bottom: 10em;
     }
-
+    
     /* Ensure logo is hidden on extra small screens */
     .logo.hidden-xs {
       display: none !important;
@@ -1057,7 +1059,6 @@ http://www.tooplate.com/view/2098-health
       font-size: 11px;
       letter-spacing: 1px;
     }
-
   }
 .logo{
   height: 82px;
