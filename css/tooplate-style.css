@@ -1118,3 +1118,55 @@ http://www.tooplate.com/view/2098-health
         padding: 6px 14px;
     }
 }
+
+/* Reviews Section */
+#reviews {
+    background: #f9f9f9;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#reviews .review-stars {
+    color: #f7c941;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+#reviews .news-thumb {
+    padding: 20px;
+}
+
+#reviews .author {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+/* Avatar Styles */
+.avatar {
+    width: 50px;
+    height: 50px;
+    background: #a5c422; /* Theme green color */
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+#reviews .author-info {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+
+#reviews .author-info h5 {
+    margin-bottom: 2px;
+    font-size: 16px;
+    color: #252525;
+}
